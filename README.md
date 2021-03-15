@@ -31,6 +31,7 @@ The following tools were used in the construction of the project:
 - [React Native](https://reactnative.dev)
 - [Expo](https://expo.io)
 - [React Navigation](https://reactnavigation.org)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [axios](https://github.com/axios/axios)
 - [expo-linear-gradient](https://docs.expo.io/versions/latest/sdk/linear-gradient/)
 - [expo-location](https://docs.expo.io/versions/latest/sdk/location/)
