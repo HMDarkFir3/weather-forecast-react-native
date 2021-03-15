@@ -34,7 +34,7 @@ export function conditionWeatherContext(condition) {
     case "clear_day":
       return (icon = {
         name: "day-sunny",
-        color: "#ffb300",
+        color: "#ffffff",
       });
 
     //Noite limpa
@@ -55,7 +55,7 @@ export function conditionWeatherContext(condition) {
     case "cloudly_day":
       return (icon = {
         name: "day-cloudy",
-        color: "#ffb300",
+        color: "#ffffff",
       });
 
     //Noite nublado
@@ -69,7 +69,7 @@ export function conditionWeatherContext(condition) {
     case "none_day":
       return (icon = {
         name: "day-sunny",
-        color: "#ffb300",
+        color: "#ffffff",
       });
 
     //Erro noite
