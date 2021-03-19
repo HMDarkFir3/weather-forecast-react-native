@@ -14,8 +14,8 @@ Aplicativo de previsão de tempo, utilizando a API da [HGBrasil](https://hgbrasi
 ## ⚙️ Funcionalidades
 
 - [x] Dando permissão para a localização o aplicativo:
-  - [x] Mostra a previsão do tempo de sua cidade.
-  - [x] E também poderá buscar a previsão de uma outra cidade.
+ - [x] Mostra a previsão do tempo de sua cidade.
+ - [x] E também poderá buscar a previsão de uma outra cidade.
 
 ---
 
