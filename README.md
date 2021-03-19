@@ -21,7 +21,7 @@ Aplicativo de previsão de tempo, utilizando a API da [HGBrasil](https://hgbrasi
 
 ## 📂 Como rodar este projeto
 
-Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com) e [NodeJs](https://nodejs.org/en/) Instalado em seu computador.
+Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/) e [Android Studio](https://developer.android.com/studio) Instalado em seu computador.
 
 ### 🌀 Clonando o repositório
 
