@@ -6,27 +6,33 @@
 
 <hr>
 
-## How to run the app 
-Inside a folder, run:
+## 📋 Sobre
+Aplicativo de previsão de tempo, utilizando a API da [HGBrasil](https://hgbrasil.com).
+
+<hr>
+
+## 📂 Como rodar o projeto
 ```bash
-$ git clone https://github.com/HMDarkFir3/weather-forecast.git
-```
-At the root of the project, run:
-```bash
+#  Clone o repositório:
+git clone https://github.com/HMDarkFir3/weather-forecast.git
+
+# Entrar no diretório
+cd weather-forecast
+
+# Instalar as dependências
 npm install  
-or 
+ou
 yarn install
-```
-After installing the project dependencies, run:
-```bash
+
+# Iniciar o projeto
 expo start
 ```
 
 <hr>
 
-# Technologies 
+## 🚀 Tecnologias Utilizadas
 
-The following tools were used in the construction of the project:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [React Native](https://reactnative.dev)
 - [Expo](https://expo.io)
@@ -38,7 +44,7 @@ The following tools were used in the construction of the project:
 
 <hr>
 
-## Author 
+## 🧑 Autor
 
 <img style="border-radius: 50%;" src="https://github.com/HMDarkFir3.png" width="100px;" alt=""/>
  <h4>Henrique Luís Oliveira Marques</h4>
@@ -47,8 +53,7 @@ The following tools were used in the construction of the project:
 
 <hr>
 
-## License
-This project is under the license [MIT](./LICENSE)
+## 📝 Licença
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber mais. 
 <br>
-👋🏽 [Get in Touch!](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)
-
+👋🏽 [Entre em contato!](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)
