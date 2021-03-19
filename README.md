@@ -12,6 +12,7 @@ Aplicativo de previsão de tempo, utilizando a API da [HGBrasil](https://hgbrasi
 <hr>
 
 ## 📂 Como rodar o projeto
+
 ```bash
 #  Clone o repositório:
 git clone https://github.com/HMDarkFir3/weather-forecast.git
